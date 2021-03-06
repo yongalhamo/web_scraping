@@ -10,7 +10,6 @@ course on Udemy by ***Ahmed Rafik***
 1b.**GDP**: Extract Country: Dept to GDP Ratio:
 >[Link:'http://worldpopulationreview.com/countries/countries-by-national-debt/']
 
-
 2. **glassShop**: getting info on products and automating extraction across pages:
    >[Link:'https://www.glassesshop.com/bestsellers']
 
