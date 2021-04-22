@@ -1,15 +1,13 @@
  # web_scraping
 
-Contains projects assigned on the  ***Modern Web Scraping with Python using Scrapy Splash Selenium***
 
-course on Udemy by ***Ahmed Rafik***
 
-1a.**Worldometer**: Extract Country:Year:Population : 
+1.**Worldometer**: Extract Country:Year:Population : 
 >[Link:'https://www.worldometers.info/world-population/population-by-country/']
 
-1b.**GDP**: Extract Country: Dept to GDP Ratio:
+2.**GDP**: Extract Country: Dept to GDP Ratio:
 >[Link:'http://worldpopulationreview.com/countries/countries-by-national-debt/']
 
-2. **glassShop**: getting info on products and automating extraction across pages:
-   >[Link:'https://www.glassesshop.com/bestsellers']
+3. **glassShop**: getting info on products and automating extraction across pages:
+>[Link:'https://www.glassesshop.com/bestsellers']
 
